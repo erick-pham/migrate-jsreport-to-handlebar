@@ -1,0 +1,17 @@
+{
+    "shortid": "Hklrt_FG75",
+    "name": "happiu-footer",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1648691333253
+    },
+    "modificationDate": {
+        "$$date": 1648691826696
+    },
+    "_id": "02bQu8QDmg9Juib7",
+    "$entitySet": "templates"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "happiu-mira-main",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true,
+        "marginTop": "3.5cm",
+        "marginBottom": "2.5cm",
+        "marginRight": "",
+        "marginLeft": ""
+    },
+    "creationDate": {
+        "$$date": 1647429125581
+    },
+    "modificationDate": {
+        "$$date": 1648697335612
+    },
+    "data": {
+        "shortid": "nxjOYjF"
+    },
+    "shortid": "VpNwjdr",
+    "_id": "WVfOm1EfkIBHzA0N",
+    "$entitySet": "templates",
+    "pdfOperations": [
+        {
+            "type": "merge",
+            "templateShortid": "Hklrt_FG75",
+            "mergeWholeDocument": true,
+            "renderForEveryPage": false
+        }
+    ]
+}

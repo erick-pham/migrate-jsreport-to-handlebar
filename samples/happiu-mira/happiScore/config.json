@@ -1,0 +1,17 @@
+{
+    "name": "happiScore",
+    "recipe": "html",
+    "shortid": "BJxEQaHkf9",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1647430953635
+    },
+    "modificationDate": {
+        "$$date": 1647430953635
+    },
+    "_id": "xmQCgtLnakx054Fg",
+    "$entitySet": "templates"
+}
